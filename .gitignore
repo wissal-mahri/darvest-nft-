@@ -12,6 +12,7 @@ artifacts
 cache
 typechain
 typechain-types
+node_modules
 
 # Variables d'environnement (TRÈS IMPORTANT)
 .env
