@@ -1,0 +1,21 @@
+# Dépendances
+node_modules
+.pnp
+.pnp.js
+
+# Tests et Couverture
+coverage
+coverage.json
+
+# Hardhat et Build
+artifacts
+cache
+typechain
+typechain-types
+
+# Variables d'environnement (TRÈS IMPORTANT)
+.env
+
+# Divers
+.DS_Store
+package-lock.json

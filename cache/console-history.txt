@@ -1,0 +1,21 @@
+await contract.nextTokenId()
+await contract.symbol()
+await contract.name()
+)"0x2F75086445E674e0c19C25332567a0CDf305AAf7""DarvestNFT",const contract = await ethers.getContractAt(
+await contract.tokenURI(1)
+await contract.ownerOf(1)
+)"ipfs://bafkreidlg6o5y7m7daorians6fvfeme6sfjidqs2ckg6cqpy5rxvehaiei"1000,"0x98f4bE5993A46B71bE9314d3e448D67dE4e3A3e3",await contract.mint(
+)"ipfs://TON_CID"1000,"0x98f4bE5993A46B71bE9314d3e448D67dE4e3A3e3",await contract.mint(
+)"0x2F75086445E674e0c19C25332567a0CDf305AAf7""DarvestNFT",const contract = await ethers.getContractAt(
+npx hardhat compile
+exit
+cd
+)"ipfs://CID_METADATA"1000,"0x98f4bE5993A46B71bE9314d3e448D67dE4e3A3e3",await contract.mint(
+await contract.ownerOf(0)
+await ethers.provider.getTransaction("0xc8304e7192c9dfb1386f3cdd39bb63aff8a4cd1711f38528513db38708e57991")
+0xc8304e7192c9dfb1386f3cdd39bb63aff8a4cd1711f38528513db38708e57991
+await contract.balanceOf("0x98f4bE5993A46B71bE9314d3e448D67dE4e3A3e3")
+await contract.mint("0x98f4bE5993A46B71bE9314d3e448D67dE4e3A3e3", 1000)
+await contract.mint("TON_ADRESSE_WALLET", 1000)
+contract.target
+)"0x09d8Ff49c8bc4a0792d6a11E05E8aEE4Dfb7Ba36""DarvestNFT",const contract = await ethers.getContractAt(

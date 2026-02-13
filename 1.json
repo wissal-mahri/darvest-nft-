@@ -1,0 +1,15 @@
+{
+  "name": "DARVEST Share #1",
+  "description": "NFT représentant une part d'investissement DARVEST",
+  "image": "ipfs://bafybeigfzr3p5hfrq3krt4dsfhxi3wk7twll6cilyzwlrnk4klrphv6pae",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "DARVEST"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Investment Share"
+    }
+  ]
+}
